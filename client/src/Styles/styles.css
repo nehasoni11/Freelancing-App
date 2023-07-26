@@ -1,0 +1,94 @@
+.dashboard {
+    text-align: right;
+    /*     margin-top: 3%;  */
+  }
+  
+  .social-container {
+    background: #eee;
+    padding: 25px 50px;
+  }
+  
+  a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+  }
+  
+  a.youtube {
+    color: #eb3223;
+  }
+  
+  a.facebook {
+    color: #4968ad;
+  }
+  
+  a.twitter {
+    color: #49a1eb;
+  }
+  
+  a.instagram {
+    color: black;
+  }
+  
+  a.social:hover {
+    transform: translateY(-2px);
+  }
+  
+  .admissionsOpen {
+    text-align: center;
+    margin-top: 1%;
+  }
+  
+  .logStatus {
+    text-align: right;
+    margin-right: 2000;
+  }
+  
+  .content-container {
+    min-height: calc(100vh - 0px);
+   /*  background-image: url("https://e0.pxfuel.com/wallpapers/681/755/desktop-wallpaper-light-blue-yellow-abstract-watercolor-background-1968089-vector-art-at-vecteezy.jpg"); */
+    /* background-image: url("https://images6.alphacoders.com/568/568500.jpg"); */
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .homeText {
+    margin-top: 3%;
+    text-align: center;
+  }
+  
+  .contactUsText {
+    margin-top: 1%;
+    text-align: center;
+  }
+
+    
+  .contactUsText1 {
+    font-size: 10;
+    margin-top: 1%;
+    text-align: center;
+  }
+  
+  button:disabled,
+  button:disabled:hover,
+  button:disabled:active {
+    background-color: #ccc;
+    color: #292929;
+    border-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  .pwd-container {
+    position: relative;
+  }
+  
+  .pwd-container img {
+    cursor: pointer;
+    position: absolute;
+    width: 20px;
+    right: 8px;
+    top: 8px;
+  }
+  

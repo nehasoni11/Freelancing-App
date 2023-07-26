@@ -1,0 +1,10 @@
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+  
+.slick-slide img {
+    margin: auto;
+    width: 100vh;
+    height: 50%;
+}

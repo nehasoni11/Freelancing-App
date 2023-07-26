@@ -1,0 +1,32 @@
+.article {
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+ /*    transform: scaleX(-1); */
+/*     display: grid; */
+/*     place-items: left; */
+}
+
+.header {
+   /*  transform: scaleX(-1); */
+
+    font-size: 40px;
+    color: white;
+    text-align: left;
+    font-weight: bolder;
+}
+
+.p {
+/*     transform: scaleX(-1); */
+
+    font-size: 20px;
+    color: white;
+    text-align: left;
+}
+
+.button {
+   /*  transform: scaleX(-1); */
+
+}
+
